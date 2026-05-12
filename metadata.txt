@@ -1,0 +1,7 @@
+[general]
+name=UpdatefromPostgis
+description= Update your .qgz project from URL
+author=g3er
+icon=icon.svg
+version=0.3
+homepage=https://github.com/amphibitus/UpdatefromPostgis
